@@ -1,3 +1,3 @@
 HungPham repository
 
-Just store practice source code
+Just storage practice source code
